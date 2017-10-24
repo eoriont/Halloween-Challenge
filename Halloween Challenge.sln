@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CCE06ED2-D097-EC19-9C04-69DBE2A203EC}") = "Halloween Challenge", "Assembly-CSharp.csproj", "{C09FD3FC-8E8E-D165-7681-CF5DEE40E393}"
+EndProject
+Project("{CCE06ED2-D097-EC19-9C04-69DBE2A203EC}") = "Halloween Challenge", "Assembly-CSharp-Editor.csproj", "{3FDDF23C-5D97-A8D1-3C76-55A97B85FADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09FD3FC-8E8E-D165-7681-CF5DEE40E393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09FD3FC-8E8E-D165-7681-CF5DEE40E393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09FD3FC-8E8E-D165-7681-CF5DEE40E393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09FD3FC-8E8E-D165-7681-CF5DEE40E393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDDF23C-5D97-A8D1-3C76-55A97B85FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDDF23C-5D97-A8D1-3C76-55A97B85FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDDF23C-5D97-A8D1-3C76-55A97B85FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDDF23C-5D97-A8D1-3C76-55A97B85FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
